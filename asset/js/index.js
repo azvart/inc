@@ -23,7 +23,7 @@ function superSum(a, b){
     return c;
     }
 
-    let count = ["6","3","8","10",'2','12','25','35','1','50','60','45','32','14','67','98'];
+    let count = [6,3,8,10,2,12,25,35,1,50,60,45,32,14,67,98];
     min = count[0];
     max = min;
     for(let i = 0; i<count.length; i++){
